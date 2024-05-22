@@ -1,0 +1,10 @@
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\bin\Debug\NpProjectTempClient.exe.config
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\bin\Debug\NpProjectTempClient.exe
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\bin\Debug\NpProjectTempClient.pdb
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\obj\Debug\NpProjectTempClient.csproj.AssemblyReference.cache
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\obj\Debug\NpProjectTempClient.Form1.resources
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\obj\Debug\NpProjectTempClient.Properties.Resources.resources
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\obj\Debug\NpProjectTempClient.csproj.GenerateResource.cache
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\obj\Debug\NpProjectTempClient.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\obj\Debug\NpProjectTempClient.exe
+C:\Users\abdal\source\repos\NpProjectTempClient\NpProjectTempClient\obj\Debug\NpProjectTempClient.pdb

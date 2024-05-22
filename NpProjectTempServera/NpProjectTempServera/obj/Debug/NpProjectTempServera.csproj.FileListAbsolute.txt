@@ -1,0 +1,10 @@
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\bin\Debug\NpProjectTempServera.exe.config
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\bin\Debug\NpProjectTempServera.exe
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\bin\Debug\NpProjectTempServera.pdb
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\obj\Debug\NpProjectTempServera.csproj.AssemblyReference.cache
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\obj\Debug\NpProjectTempServera.Form1.resources
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\obj\Debug\NpProjectTempServera.Properties.Resources.resources
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\obj\Debug\NpProjectTempServera.csproj.GenerateResource.cache
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\obj\Debug\NpProjectTempServera.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\obj\Debug\NpProjectTempServera.exe
+C:\Users\abdal\source\repos\NpProjectTempServera\NpProjectTempServera\obj\Debug\NpProjectTempServera.pdb
